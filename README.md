@@ -5,3 +5,6 @@ This repo contains a series of exercises, algorithms and data structures impleme
 
 ### Kotlin
 - [Array and LinkedList implementation](/Kotlin/ListImplementation)
+
+### Ruby
+- [Number guessing game](/Ruby/number_guess)
