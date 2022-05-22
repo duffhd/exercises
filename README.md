@@ -1,5 +1,8 @@
 This repo contains a series of exercises, algorithms and data structures implementations in various languages.
 
+### C
+- [Linked List](/C/linked_list)
+
 ### Clojure
 - [Armstrong Number](/Clojure/armstrong-number)
 
