@@ -3,6 +3,9 @@ Exercises, algorithms, data structures and random programs.
 ### C
 - [Linked List](/C/linked_list)
 
+### C++
+- [catsay](/Cpp/catsay)
+
 ### Clojure
 - [Armstrong Number](/Clojure/armstrong-number)
 
